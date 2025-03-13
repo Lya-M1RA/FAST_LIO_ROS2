@@ -1,3 +1,5 @@
+** FAST_LIO has had an official ROS2 branch, this repo is archived and read-only.**
+
 > ROS2 Fork repo maintainer: [Ericsiii](https://github.com/Ericsii)
 
 ## Related Works and Extended Application
